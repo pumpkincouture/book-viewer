@@ -1,0 +1,14 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+a {
+  font-weight: 600;
+  font-size: 15px;
+  color: #BF4F74;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #d895ab;
+}
